@@ -1,6 +1,6 @@
 /*
-*PF Theory Assignment 
-*Part B Question 6 
+*PF Theory Assignment 2
+*Question 2
 *Made by M.Uzair Nauman
 */
 #include <stdio.h>
