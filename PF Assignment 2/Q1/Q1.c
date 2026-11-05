@@ -1,3 +1,8 @@
+/*
+*PF Theory Assignment 
+*Part B Question 6 
+*Made by M.Uzair Nauman
+*/
 #include <stdio.h>
 
 int main(void) {
