@@ -1,3 +1,8 @@
+/*
+*PF Theory Assignment 2 
+*Question 4 
+*Made by M.Uzair Nauman
+*/
 #include <stdio.h>
 
 int getValidDays() {
